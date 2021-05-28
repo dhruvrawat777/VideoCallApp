@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/dhruvrawat777/VideoCallApp#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
+    "peer": "^0.6.1",
     "socket.io": "^4.1.2",
     "uid": "^2.0.0",
     "uuid": "^8.3.2"
